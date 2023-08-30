@@ -2,3 +2,4 @@ name: Istio
 rating: 5
 imageUrl: https://github.com/msa-ez/template-spring-boot-3/assets/123912988/39a6d84b-b90b-44f8-a160-c70d5b7db2f7
 templateName: istio
+description: Istio description
