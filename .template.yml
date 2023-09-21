@@ -4,4 +4,4 @@ imageUrl: https://github.com/msa-ez/template-axon2/assets/130956306/08fdd145-cf2
 templateName: istio
 description: Open-source platform for service-to-service communication, security, and management, effectively handling networking and security layers in a microservices architecture.
 depends:
-group: Service Mesh
+tags: Service Mesh
