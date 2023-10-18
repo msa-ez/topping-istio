@@ -1,7 +1,6 @@
 name: Istio
 rating: 5
 imageUrl: https://github.com/msa-ez/template-axon2/assets/130956306/08fdd145-cf22-4b1d-8222-171d7765519e
-templateName: istio
 description: Open-source platform for service-to-service communication, security, and management, effectively handling networking and security layers in a microservices architecture.
 depends:
 tags:
